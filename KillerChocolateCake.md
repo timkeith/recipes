@@ -21,3 +21,12 @@
    <br>Note: mix by hand with wooden spoon for 1 min. or less to not overbeat.
 1. Stir in butter-chocolate mixture.
 1. Sift the flour over the bowl, stirring it in.
+1. Pour batter into prepared pans and bake 26-30 minutes (start checking at 26).
+   <br>Do not over bake. Cake tester should not come out clean, but not soupy either.
+1. Cool on wire racks and remove from pans as soon as cooled.
+   <br>If not using same day: cool completely, wrap in plastic wrap, and refrigerate.
+
+## Ingredients - Frosting
+- 1 1/4
+- fractions: $ 1 \over 4 $
+- fractions: $$ 1 \over 4 $$
