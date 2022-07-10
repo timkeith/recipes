@@ -28,5 +28,3 @@
 
 ## Ingredients - Frosting
 - 1 1/4
-- fractions: $ 1 \over 4 $
-- fractions: $$ 1 \over 4 $$
